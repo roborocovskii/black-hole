@@ -25,4 +25,4 @@
 
 ・スマートフォンのタッチ動作に対応。
 
- [デモ先](https://www.hekeke.com/blog/2024/10/black-hole-effect.html)
+ [Demo (HEKEKE.com)](https://www.hekeke.com/blog/2024/10/black-hole-effect.html)
