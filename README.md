@@ -23,4 +23,6 @@
 
 ・粒子の色やサイズは初期化時に一度だけ計算し、それを使い回すことで毎フレームの計算を減らします。
 
- [デモ先](https://url.html)
+・スマートフォンのタッチ動作に対応。
+
+ [デモ先]([https://url.html](https://www.hekeke.com/blog/2024/10/black-hole-effect.html))
